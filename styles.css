@@ -194,7 +194,7 @@
       }
 
       .metodo-leveza {
-        padding: 0 !important; /* Topo 0, laterais 1rem, embaixo 2rem */
+        padding: 0 !important; /* Topo 0, laterais 1rem, em baixo 2rem */
         margin: 0 !important;        /* Garante que não haja margem externa */
         background-color: #fff8f1;
       }
